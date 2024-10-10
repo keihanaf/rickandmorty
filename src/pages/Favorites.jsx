@@ -19,7 +19,7 @@ function Favorites() {
                 <div className="p-4 flex justify-between items-center">
                     <span className="text-gray-600 text-sm">{character.species}</span>
                     <button
-                        onClick={() => updateFavorites(character.id)}
+                        onClick={() => updateFavorites(character)}
                         className="text-red-500 hover:text-red-700 transition duration-300"
                     >
                         <FaHeart className="text-3xl" />
