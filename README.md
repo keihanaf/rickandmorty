@@ -4,7 +4,7 @@
 
 This project is a modern web application built using React and Vite, providing a fast and efficient development experience with Hot Module Replacement (HMR) and ESLint for code quality.
 
-<h3><a href="">View Rick and Morty</a></h3>
+<h3><a href="https://classy-kangaroo-59832c.netlify.app/">View Rick and Morty</a></h3>
 
 ## Features
 
